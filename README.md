@@ -8,6 +8,6 @@ Generally, you should clone this repository into an existing Unity project:
 ..
 
 + cd WebGlKit
-+ python WebGlKit
++ python ProcessBuild
 
 Follow the prompts in the terminal to get started
